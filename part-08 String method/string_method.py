@@ -14,4 +14,7 @@ new_text = text.replace("kumar", "chauhan")  # replace method
 
 print(new_text)
 
-new_text="chauhan" in 
+# new_text = "chauhan" in text  //output-- False   // check  currect words yes ya  no
+
+new_text = "chauhan" not in text   #output-- True
+print(new_text)

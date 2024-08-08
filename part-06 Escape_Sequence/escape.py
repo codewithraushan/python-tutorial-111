@@ -1,6 +1,6 @@
 # text1="This is "python" tutorial" --- error
 text1 = "This is 'python' tutorial"
-text2 = 'This is "python tutorial'
+text2 = 'This is "python" tutorial'
 text3 = "This is 'python\" tutorial"
 text4 = 'This is "python\' tutorial'
 
